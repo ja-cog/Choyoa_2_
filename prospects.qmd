@@ -1,0 +1,13 @@
+---
+title: "Red Wings Prospects"
+text: Prospects
+image: cossa.jpg
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 23em
+---
+
+I am a huge Detroit Red Wings fan and have very strong opinion on goalie prospect Sebastian Cossa. He might be the next coming of Patrick Roy.
+
+Sebastian Cossa is poised to become the next great NHL goalie, and his impressive stats highlight why he is a rising star in the hockey world. Throughout his junior career, Cossa has consistently showcased exceptional skills and a remarkable ability to shut down opponents. With an imposing 6'6" frame and outstanding athleticism, he possesses the physical attributes necessary to dominate between the pipes. Cossa's statistics further solidify his potential as a future NHL standout. During the 2020-2021 WHL season, he recorded a remarkable 1.57 goals against average (GAA) and an impressive .941 save percentage (SV%). These numbers not only demonstrate his ability to keep the puck out of the net but also indicate his consistency and composure under pressure. Additionally, Cossa's impressive performance continued into the playoffs, where he posted a phenomenal 1.33 GAA and a .947 SV%. These statistics, coupled with his tremendous potential and natural talent, make Sebastian Cossa a promising prospect for the next great NHL goalie.

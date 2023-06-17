@@ -16,7 +16,7 @@ about:
 # page content excluded for brevity ~
 ---
 
-Jacob Coggshall is a student going into his fourth year at UCSB as double major in both Environmental Studies and Geography. He has a keen interest in water. Water is pretty cool who doesn't like water.
+I am Jacob Coggshall, a student going into my fourth year at UCSB as double major in both Environmental Studies and Geography. I'm from the a small town in the bay area called Crockett, where he went to John Swett High School. My entire time at UCSB I have been the only person from this school to come to UCSB, but that changes next year, as UCSB is becoming a family endeavor as my brother Gabe is also coming here ! Go UCSB Gauchos and go John Swett Warriors!
 
 ```{r}
 

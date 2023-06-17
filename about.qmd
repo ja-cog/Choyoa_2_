@@ -1,9 +1,14 @@
 ---
-title: "About"
+title: "Water Is Pretty Cool"
+text: Water Plots
+image: water_plot.png
+about: 
+  template: trestles
+  image-shape: rectangle
+  image-width: 23em
+  links:
+    - text: Full Code and Models
+      href: https://ja-cog.github.io/Water_Plots/code/coggshal_jacob_final_project.html
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+I like water I think it is pretty cool. It may be the area of focus I move forward in post grad. To illustrate this, here is a link to an html file of some code I wrote in the fall to visualize some water data.
