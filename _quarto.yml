@@ -3,18 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "Choyoa_2_"
+  title: "Jacob Coggshall"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+   background: primary
+   left:
+     - href: index.qmd
+       text: Home
+     - about.qmd
+     - resources.qmd
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
 
 editor: visual
 

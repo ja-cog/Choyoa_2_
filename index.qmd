@@ -7,7 +7,7 @@ about:
   image-width: 23em
   links:
     - text: LinkedIn
-      href: https://www.linkedin.com/in/jacobcoggshall/
+      href: https://www.linkedin.com/in/jacob-coggshall/
     - text: GitHub
       href: https://github.com/ja-cog
     - text: Email
@@ -16,7 +16,7 @@ about:
 # page content excluded for brevity ~
 ---
 
-Jacob Coggshall is a student going into his fourth year at UCSB as double major in both Environmental Studies and Geography.
+Jacob Coggshall is a student going into his fourth year at UCSB as double major in both Environmental Studies and Geography. He has a keen interest in water. Water is pretty cool who doesn't like water.
 
 ```{r}
 
