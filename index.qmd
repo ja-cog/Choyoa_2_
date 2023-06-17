@@ -1,6 +1,6 @@
 ---
 title: "Jacob Coggshall"
-image: hair.jpg
+image: Hair.jpg
 about: 
   template: trestles
   image-shape: rounded
