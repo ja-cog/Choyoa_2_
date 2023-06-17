@@ -1,10 +1,22 @@
 ---
 title: "Jacob Coggshall"
+image: hair.jpg
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 23em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/jacobcoggshall/
+    - text: GitHub
+      href: https://github.com/ja-cog
+    - text: Email
+      href: mailto:jacobcoggshall@ucsb.edu
+
+# page content excluded for brevity ~
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Jacob Coggshall is a student going into his fourth year at UCSB as double major in both Environmental Studies and Geography.
 
 ```{r}
 
