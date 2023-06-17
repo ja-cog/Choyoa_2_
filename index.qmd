@@ -3,7 +3,7 @@ title: "Jacob Coggshall"
 image: hair.jpg
 about: 
   template: trestles
-  image-shape: round
+  image-shape: rounded
   image-width: 23em
   links:
     - text: LinkedIn
